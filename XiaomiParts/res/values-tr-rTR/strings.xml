@@ -142,5 +142,5 @@
     <!-- CustomSeekBarPreference -->
     <string name="edit_value">Yeni değer seçin</string>
     <string name="default_value">Varsayılan Değer</string>
-    <string name="edit_hint">%1$d ve %2$d arasında bir değer</string>
+    <string name="edit_hint" formatted="false">%1$d ve %2$d arasında bir değer</string>
 </resources>
